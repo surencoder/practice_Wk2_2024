@@ -3,6 +3,6 @@ class Suren
 {
 public static void main (String a[])
 {
-    System.out.print("suren");
+    System.out.print(3+5);
 }
 }   
