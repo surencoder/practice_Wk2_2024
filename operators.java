@@ -30,6 +30,11 @@ public class operators {
         System.out.println(!result3);
         System.out.println(result3);
         
+        // ternary operators:
+
+        // condition: variable = Expression1 ? Expression2: Expression3 
+        //                       condition ? is true  Expression 2 is executed , false: Expression 3 is executed/ 
+
     }
     
 }
